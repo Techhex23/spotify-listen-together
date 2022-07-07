@@ -18,7 +18,7 @@ Download [Spicetify Marketplace](https://github.com/CharlieS1103/spicetify-marke
 To listen together with others, you must first create a server for everyone to join to.
 To get started, go to [Spotify Listen Together Server](https://github.com/FlafyDev/spotify-listen-together-server) or host with Heroku.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FlafyDev/spotify-listen-together-server)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Techhex23/spotify-listen-together-server)
 
 ### Joining a Server
 Press "Join a server" in the menu and enter the server's address and your name.
